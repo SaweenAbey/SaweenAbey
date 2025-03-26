@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying at S
 ## 🚀 Tech Stack
 - **Languages:** Python, Java, JavaScript, C++
 - **Frontend:** React, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express, Django
-- **Databases:** MySQL, MongoDB, Firebase
+- **Backend:** Node.js, Express
+- **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Docker, AWS, VS Code
 
 ## 📊 GitHub Stats
