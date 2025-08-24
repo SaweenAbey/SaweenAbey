@@ -15,10 +15,10 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying at S
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://YOUR_PORTFOLIO_LINK/)
 
 ## 🚀 Tech Stack
-- **Languages:** Python, Java, JavaScript, C++
+- **Languages:** Python, Java, JavaScript, C++,Kotline ,PHP , Arduino 
 - **Frontend:** React, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express
-- **Databases:** MySQL, MongoDB
+- **Backend:** Node.js, Express 
+- **Databases:** MySQL, MongoDB 
 - **Tools & Platforms:** Git, GitHub, Docker, AWS, VS Code
 
 ## 📊 GitHub Stats
