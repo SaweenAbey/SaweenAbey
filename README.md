@@ -31,5 +31,11 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying at S
 - 🚆 Train Reservation System (Group Project)
 - 🔥 Open Source Contributions
 - 🌐 Web Applications
+---
 
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=[TheshanGeethanjan&label=Profile%20Views&color=5C7AFF&style=flat](https://github.com/SaweenAbey))
+
+</div>
 Thanks for stopping by! Feel free to check out my repositories and collaborate! 🚀
