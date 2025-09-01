@@ -32,10 +32,22 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying at S
 - 🔥 Open Source Contributions
 - 🌐 Web Applications
 ---
-
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=[TheshanGeethanjan&label=Profile%20Views&color=5C7AFF&style=flat](https://github.com/SaweenAbey))
+<img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20views&color=FF6B9D&style=flat" alt="Profile views" />
 
 </div>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+
 Thanks for stopping by! Feel free to check out my repositories and collaborate! 🚀
