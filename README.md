@@ -1,57 +1,91 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Savin%20Udana&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Mobile%20%20Applicaton%20Developer&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Savin%20Udana&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-### Hi there, I'm Savin Udana! 👋
+<h2 align="center">🚀 Full-Stack Developer | UI/UX Designer | Mobile App Developer</h2>
 
-Welcome to my GitHub profile! I'm a passionate developer currently studying at SLIIT, working on exciting projects and constantly learning new technologies. 🚀
-
-## 🔥 About Me
-- 🎓 Student at SLIIT
-- 💻 Interested in software development & system design
-- 🚆 Currently working on a Train Reservation System
-- 🛠️ Exploring backend development and cloud technologies
-- 🎯 Always eager to learn and collaborate
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/YOUR_TWITTER_PROFILE/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://YOUR_PORTFOLIO_LINK/)
-
-## 🚀 Tech Stack
-- **Languages:** Python, Java, JavaScript, C++,Kotlin ,PHP , Arduino 
-- **Frontend:** React, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express 
-- **Databases:** MySQL, MongoDB 
-- **Tools & Platforms:** Git, GitHub, Docker, AWS, VS Code
-
-## 📊 GitHub Stats
-![Savin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=radical)
-
-## 🎯 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=radical)
-
-## 📌 Latest Projects
-- 🚆 Train Reservation System (Group Project)
-- 🔥 Open Source Contributions
-- 🌐 Web Applications
----
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20views&color=FF6B9D&style=flat" alt="Profile views" />
-
-</div>
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=tokyo-night&hide_border=true)
-
-</div>
+<p align="center">
+  Passionate developer at <b>SLIIT</b>, building clean, scalable systems and modern applications.
+</p>
 
 ---
 
+## ✨ About Me
 
-Thanks for stopping by! Feel free to check out my repositories and collaborate! 🚀
+- 🎓 Undergraduate at **SLIIT**
+- 💻 Focused on **Full-Stack Development & System Design**
+- 🚆 Currently building a **Train Reservation System**
+- ☁️ Exploring **Backend + Cloud Technologies**
+- 🤝 Open to collaborations & new opportunities  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
+    <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_PROFILE/">
+    <img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO_LINK/">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=00C853"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-111?style=for-the-badge&logo=kotlin)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🚆 **Train Reservation System**  
+- 🌐 Modern Web Applications  
+- 🔥 Open Source Contributions  
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+</p>
+
+---
+
+<h3 align="center">⚡ Thanks for visiting — let's build something amazing!</h3>
