@@ -1,13 +1,22 @@
+<h1 align="center">Hi, I'm Savin Udana 👋</h1>
+
+<h3 align="center">
+  Full-Stack Developer • UI/UX Designer • Mobile App Developer
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Savin%20Udana&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
+  Undergraduate at <b>SLIIT</b> passionate about building scalable systems, modern applications,  
+  and clean user experiences 🚀
 </p>
 
-<h2 align="center">
-  🚀 Full-Stack Developer | UI/UX Designer | Mobile App Developer
-</h2>
+---
 
 <p align="center">
-  Passionate developer at <b>SLIIT</b>, building modern web apps, scalable systems, and clean user experiences.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Mobile+App+Developer+📱;Always+Learning+New+Tech+⚡" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
@@ -51,7 +60,7 @@
   <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php"/>
 </p>
 
-### Frontend & Tools  
+### Frameworks & Tools  
 <p>
   <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css"/>
@@ -65,14 +74,6 @@
   <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb"/>
 </p>
 
-### Platforms  
-<p>
-  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/VS_Code-111?style=for-the-badge&logo=visualstudiocode"/>
-</p>
-
 ---
 
 ## 📊 GitHub Overview
@@ -82,15 +83,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🚆 **Train Reservation System** (Group Project)
-- 🌐 Full-Stack Web Applications  
-- 🔥 Open Source Contributions  
-- 📱 Mobile App Development  
 
 ---
 
