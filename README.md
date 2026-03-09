@@ -31,24 +31,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/savin-udana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-
-  <a href="https://github.com/SaweenAbey" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.savinudana.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=00C853"/>
-  </a>
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages  
@@ -79,8 +61,8 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="41%" />
 </p>
 
 <p align="center">
@@ -100,6 +82,20 @@
 </p>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/savin-udana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://github.com/SaweenAbey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.savinudana.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=00C853"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=blueviolet&style=flat-square"/>
