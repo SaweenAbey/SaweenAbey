@@ -60,18 +60,26 @@
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="41%" />
-</p>
+<table align="center">
+  <tr>
+    <!-- LEFT: GitHub Streak -->
+    <td align="center" width="50%">
+      <h3>GitHub Streak</h3>
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=radical&hide_border=false"
+        alt=""
+      />
+    </td>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaweenAbey&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="60%" />
-</p>
+  <!-- RIGHT: Top Languages -->
+  <td align="center" width="50%">
+      <h3>Top Languages</h3>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaweenAbey&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+   
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaweenAbey&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="95%" />
-</p>
+   </td>
+  </tr>
+</table>
 
 ---
 
