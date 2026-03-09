@@ -79,9 +79,16 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SaweenAbey&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaweenAbey&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="95%" />
 </p>
 
 ---
