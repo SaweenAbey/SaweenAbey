@@ -60,26 +60,11 @@
 
 ## 📊 GitHub Overview
 
-<table align="center">
-  <tr>
-    <!-- LEFT: GitHub Streak -->
-    <td align="center" width="50%">
-      <h3>GitHub Streak</h3>
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=radical&hide_border=false"
-        alt=""
-      />
-    </td>
-
-  <!-- RIGHT: Top Languages -->
-  <td align="center" width="50%">
-      <h3>Top Languages</h3>
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaweenAbey&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-   
-
-   </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" height="195px" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=radical" alt="GitHub Streak" height="195px" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaweenAbey&theme=radical&layout=compact&langs_count=8" alt="Top Languages" height="195px" />
+</p>
 
 ---
 
