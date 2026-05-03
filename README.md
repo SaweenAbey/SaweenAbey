@@ -1,15 +1,30 @@
 <h1 align="center">Hi, I'm Savin Udana 👋</h1> 
 
-<h3 align="center">
-  Full-Stack Developer • UI/UX Designer • Mobile App Developer • Data analyst 
-</h3>
+## Who am I?
 
-<p align="center">
-  Undergraduate at <b>SLIIT</b> passionate about building scalable systems, modern applications,  
-  and clean user experiences 🚀
-</p>
+ ```python
+  class WhoAmI:
+    user = 'Savin Udana Abeysekara'
+	current_edu = "SLIIT"
+    currently_learning = "Java , Python"
+    fun_fact = "I love coding"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming'
+				
+			]
+	
+	def getCity():
+		return Matara_Sri Lanka()
+	
+	def Ambitions():
+		Become_DataScientist()
+		FinishMyProjects()
+	
+ ```
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Mobile+App+Developer+📱;Always+Learning+New+Tech+⚡" />
