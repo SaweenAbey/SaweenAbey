@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Sawin%20Abey&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=51&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Savin%20Udana%20Abeysekara&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Enthusiast%20%7C%20Tech%20Explorer%20%7C%20AI%20%26%20ML%20Learner&descAlignY=51&descAlign=50" width="100%" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/savin-udana/">
@@ -16,11 +16,7 @@
     </a>
   </p>
   
-  <br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=💻+Building+Scalable+Web+Applications;🚀+Exploring+Cloud+%26+System+Architecture;🎯+Passionate+about+Data+Science+%26+ML;🔧+Full+Stack+Development+Specialist;⚡+Always+Learning+and+Growing" alt="Typing SVG" />
-  
-  <br>
+
   
   <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </div>
@@ -29,15 +25,15 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Developer" width="300" src="https://media.giphy.com/media/SWoRKslHVtqjXVlevb/giphy.gif">
+<img align="right" alt="Data Science" width="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
-I'm a passionate **Full Stack Developer** and **Software Engineering** undergraduate from Sri Lanka, dedicated to crafting scalable, efficient, and elegant solutions to complex problems. I thrive in dynamic environments where innovation meets technology.
+I'm a passionate **Data Science** enthusiast from Sri Lanka, dedicated to uncovering insights from data and building intelligent solutions. I love exploring machine learning, data visualization, and transforming complex datasets into meaningful intelligence.
 
-- 🎓 **Education**: Software Engineering student at **SLIIT**
-- 💼 **Expertise**: Full-Stack Development, Cloud Architecture, System Design
-- 🔨 **Currently Building**: Comprehensive Train Reservation System & Cloud-Native Applications
-- 🚀 **Interests**: Microservices, DevOps, Machine Learning, and Open Source
-- 💡 **Philosophy**: Code is poetry; make it clean, make it count
+- 🎓 **Education**: Data Science student at **SLIIT**
+- 💼 **Expertise**: Machine Learning, Data Analysis, Statistical Modeling, Python
+- 🔨 **Currently Building**: Data-driven projects & ML models
+- 🚀 **Interests**: AI/ML, Data Engineering, Predictive Analytics, and Open Source
+- 💡 **Philosophy**: Data tells stories; make them count
 - 🎮 **Fun Facts**: I balance coding marathons with gaming sessions and love discovering new music
 
 <br clear="right">
@@ -52,86 +48,47 @@ I'm a passionate **Full Stack Developer** and **Software Engineering** undergrad
 ### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🎨 Frontend & UI
+### 📊 Data Science & ML
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### 📈 Data Visualization
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Data
+### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
-
-### 🚀 DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & IDEs
 <p>
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 </div>
 
 <br>
-
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaweenAbey&theme=github_dark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-## 📊 GitHub Analytics & Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=58a6ff" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaweenAbey&theme=github-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=github-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="Contribution Graph" />
-</div>
 
 <br>
 
@@ -141,9 +98,9 @@ I'm a passionate **Full Stack Developer** and **Software Engineering** undergrad
   
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🚂 Train Reservation System | Comprehensive booking platform | Java, React, MySQL |
-| ☁️ Cloud Architecture Demo | Microservices on Kubernetes | Docker, K8s, AWS |
-| 📊 Data Visualization Dashboard | Real-time analytics platform | React, Node.js, MongoDB |
+| � Predictive Analytics Dashboard | Real-time data analysis & insights | Python, Pandas, Matplotlib |
+| 🤖 ML Classification Model | Machine learning model for data classification | Scikit-Learn, TensorFlow |
+| 📈 Data Visualization Pipeline | End-to-end data processing & visualization | Python, SQL, Plotly |
 
 </div>
 
@@ -151,19 +108,19 @@ I'm a passionate **Full Stack Developer** and **Software Engineering** undergrad
 
 ## 🎓 Learning & Certifications
 
-- 🏅 **Continuous Learning**: AWS, Kubernetes, Machine Learning
-- 📚 **Focus Areas**: System Design, Cloud Architecture, DevOps
-- 🔗 **Open Source**: Active contributor to open-source projects
+- 🏅 **Continuous Learning**: Machine Learning, Deep Learning, Advanced Statistics
+- 📚 **Focus Areas**: Predictive Modeling, Data Engineering, NLP & Computer Vision
+- 🔗 **Open Source**: Active contributor to data science projects
 
 <br>
 
 ## 📈 Let's Collaborate!
 
 I'm always interested in:
-- 🤝 Collaborating on innovative projects
-- 💬 Discussing tech, architecture, and best practices
+- 🤝 Collaborating on data science & AI projects
+- 💬 Discussing ML algorithms, data insights, and best practices
 - 📧 Sharing knowledge and learning from others
-- 🚀 Building something amazing together
+- 🚀 Building intelligent solutions together
 
 <br>
 
@@ -190,6 +147,6 @@ I'm always interested in:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer&text=Made%20with%20❤️%20by%20Sawin%20Abey&fontSize=20&fontColor=58a6ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer&text=Made%20with%20❤️%20by%20Savin%20Udana%20Abeysekara&fontSize=16&fontColor=58a6ff" width="100%" />
 
 </div>
