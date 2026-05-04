@@ -1,152 +1,118 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Savin%20Udana%20Abeysekara&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Enthusiast%20%7C%20Tech%20Explorer%20%7C%20AI%20%26%20ML%20Learner&descAlignY=51&descAlign=50" width="100%" />
+<h1 align="center">Hi, I'm Savin Udana 👋</h1> 
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/savin-udana/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-    </a>
-    <a href="https://www.savinudana.me/">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-    </a>
-    <a href="https://twitter.com/yourhandle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter" />
-    </a>
-  </p>
-  
+## Who am I?
 
-  
-  <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-</div>
-
-<br>
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Data Science" width="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
-
-I'm a passionate **Data Science** enthusiast from Sri Lanka, dedicated to uncovering insights from data and building intelligent solutions. I love exploring machine learning, data visualization, and transforming complex datasets into meaningful intelligence.
-
-- 🎓 **Education**: Data Science student at **SLIIT**
-- 💼 **Expertise**: Machine Learning, Data Analysis, Statistical Modeling, Python
-- 🔨 **Currently Building**: Data-driven projects & ML models
-- 🚀 **Interests**: AI/ML, Data Engineering, Predictive Analytics, and Open Source
-- 💡 **Philosophy**: Data tells stories; make them count
-- 🎮 **Fun Facts**: I balance coding marathons with gaming sessions and love discovering new music
-
-<br clear="right">
+ ```python
+  class WhoAmI:
+    user = 'Savin Udana Abeysekara'
+	current_edu = "SLIIT"
+    currently_learning = "Java , Python"
+    fun_fact = "I love coding"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming'
+				
+			]
+	
+	def getCity():
+		return Matara_Sri Lanka()
+	
+	def Ambitions():
+		Become_DataScientist()
+		FinishMyProjects()
+	
+ ```
 
 
-<br>
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Mobile+App+Developer+📱;Always+Learning+New+Tech+⚡" />
 </p>
 
-### 📊 Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
-### 📈 Data Visualization
+---
+
+## ✨ About Me
+
+- 🎓 Undergraduate Student at **SLIIT**
+- 💻 Interested in **Full-Stack Development & System Design**
+- 🚆 Currently working on a **Train Reservation System**
+- ☁️ Exploring **Backend + Cloud Technologies**
+- 🤝 Always open to collaborations & new opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Languages  
 <p>
-  <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Kotlin-111?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php"/>
 </p>
 
-### 🗄️ Databases
+### Frameworks & Tools  
 <p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express"/>
 </p>
 
-### 🛠️ Tools & IDEs
+### Databases  
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb"/>
 </p>
 
-</div>
+---
 
-<br>
+## 📊 GitHub Overview
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" height="195px" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=radical" alt="GitHub Streak" height="195px" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaweenAbey&theme=radical&layout=compact&langs_count=8" alt="Top Languages" height="195px" />
+</p>
 
-## 💼 Featured Projects
 
-<div align="center">
-  
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| � Predictive Analytics Dashboard | Real-time data analysis & insights | Python, Pandas, Matplotlib |
-| 🤖 ML Classification Model | Machine learning model for data classification | Scikit-Learn, TensorFlow |
-| 📈 Data Visualization Pipeline | End-to-end data processing & visualization | Python, SQL, Plotly |
 
-</div>
+---
 
-<br>
+## 📈 Contribution Activity
 
-## 🎓 Learning & Certifications
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=tokyo-night&hide_border=true"/>
+</p>
 
-- 🏅 **Continuous Learning**: Machine Learning, Deep Learning, Advanced Statistics
-- 📚 **Focus Areas**: Predictive Modeling, Data Engineering, NLP & Computer Vision
-- 🔗 **Open Source**: Active contributor to data science projects
+---
 
-<br>
+## 🌐 Connect With Me
 
-## 📈 Let's Collaborate!
+<p align="center">
+  <a href="https://www.linkedin.com/in/savin-udana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://github.com/SaweenAbey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.savinudana.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=00C853"/>
+  </a>
+</p>
 
-I'm always interested in:
-- 🤝 Collaborating on data science & AI projects
-- 💬 Discussing ML algorithms, data insights, and best practices
-- 📧 Sharing knowledge and learning from others
-- 🚀 Building intelligent solutions together
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+</p>
 
-<br>
+---
 
-<div align="center">
-  
-### 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/savin-udana/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.savinudana.me/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-
-<br><br>
-
-**⭐ If you find my work interesting, feel free to star my repositories and follow for more updates!**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer&text=Made%20with%20❤️%20by%20Savin%20Udana%20Abeysekara&fontSize=16&fontColor=58a6ff" width="100%" />
-
-</div>
+<h3 align="center">
+⚡ Thanks for visiting — Let's build something amazing together!
+</h3>
