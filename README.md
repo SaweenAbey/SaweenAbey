@@ -1,120 +1,111 @@
-<h1 align="center">Hi, I'm Savin Udana 👋</h1> 
-
-## Who am I?
-
- ```python
-  class WhoAmI:
-    user = 'Savin Udana Abeysekara'
-	current_edu = "SLIIT"
-    currently_learning = "Java , Python"
-    fun_fact = "I love coding"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming'
-				
-			]
-	
-	def getCity():
-		return Matara_Sri Lanka()
-	
-	def Ambitions():
-		Become_DataScientist()
-		FinishMyProjects()
-	
- ```
-
-
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Savin%20Udana!&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Mobile+App+Developer+📱;Always+Learning+New+Tech+⚡" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Data+Science+Enthusiast+📊;Mobile+App+Developer+📱;Constantly+Learning+%26+Exploring+⚡">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Data+Science+Enthusiast+📊;Mobile+App+Developer+📱;Constantly+Learning+%26+Exploring+⚡" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- Socials -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <a href="https://www.linkedin.com/in/savin-udana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.savinudana.me/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/SaweenAbey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-## ✨ About Me
+### 👨‍💻 About Me
+
+<table align="center" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="55%" style="border: none;">
 
 - 🎓 Undergraduate Student at **SLIIT**
-- 💻 Interested in **Full-Stack Development & System Design**
-- 🚆 Currently working on a **Train Reservation System**
-- ☁️ Exploring **Backend + Cloud Technologies**
-- 🤝 Always open to collaborations & new opportunities
+- 🔭 Currently building a **Train Reservation System**
+- 🌱 Exploring **Cloud Technologies** & **System Design**
+- 🎯 Future Goal: **Data Scientist** 
+- 🎸 In my free time, I enjoy **Music**, **Gaming**, and **Chilling**
+- 📍 Based in **Matara, Sri Lanka**
+
+</td>
+<td width="45%" align="center" style="border: none;">
+
+```python
+class Savin(Developer):
+    def __init__(self):
+        self.name = "Savin Udana Abeysekara"
+        self.role = "Full Stack Engineer"
+        self.education = "SLIIT"
+        self.coffee_addict = True
+
+    def get_ambitions(self):
+        return [
+            "Master System Design",
+            "Become a Data Scientist",
+            "Build impactful projects"
+        ]
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Kotlin-111?style=for-the-badge&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php"/>
-</p>
-
-### Frameworks & Tools  
-<p>
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express"/>
-</p>
-
-### Databases  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb"/>
-</p>
-
----
-
-## 📊 GitHub Overview
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" height="195px" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=radical" alt="GitHub Streak" height="195px" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaweenAbey&theme=radical&layout=compact&langs_count=8" alt="Top Languages" height="195px" />
-</p>
-
-
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/savin-udana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,kotlin,php&perline=10" alt="Languages" />
   </a>
-  <a href="https://github.com/SaweenAbey" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express&perline=10" alt="Frameworks" />
   </a>
-  <a href="https://www.savinudana.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=00C853"/>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&perline=10" alt="Tools" />
   </a>
 </p>
 
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaweenAbey&theme=tokyo-night&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&theme=tokyo-night&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=tokyo-night&hide_border=true&bg_color=1A1B27" width="48%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaweenAbey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
 
+<br>
 
-<h3 align="center">
-⚡ Thanks for visiting — Let's build something amazing together!
-</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
