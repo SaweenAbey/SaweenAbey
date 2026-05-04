@@ -1,111 +1,101 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Savin%20Udana!&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=120&text=SAVIN%20UDANA&fontColor=000000&fontSize=50&desc=Software%20Engineer%20%7C%20System%20Architect&descAlignY=70&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=SAVIN%20UDANA&fontColor=ffffff&fontSize=50&desc=Software%20Engineer%20%7C%20System%20Architect&descAlignY=70&descAlign=50">
+  <img alt="Savin Udana Banner" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=SAVIN%20UDANA&fontColor=ffffff&fontSize=50&desc=Software%20Engineer%20%7C%20System%20Architect&descAlignY=70&descAlign=50">
+</picture>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savin-udana/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.savinudana.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaweenAbey)
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Crafting+Robust+Backend+Systems;Designing+Intuitive+Interfaces;Exploring+Data+Science;Building+the+Future+of+Web">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+Robust+Backend+Systems;Designing+Intuitive+Interfaces;Exploring+Data+Science;Building+the+Future+of+Web">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Crafting+Robust+Backend+Systems;Designing+Intuitive+Interfaces;Exploring+Data+Science;Building+the+Future+of+Web">
+</picture>
+
 </div>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Data+Science+Enthusiast+📊;Mobile+App+Developer+📱;Constantly+Learning+%26+Exploring+⚡">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Data+Science+Enthusiast+📊;Mobile+App+Developer+📱;Constantly+Learning+%26+Exploring+⚡" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Socials -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/savin-udana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.savinudana.me/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/SaweenAbey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<br>
 
 ---
 
-### 👨‍💻 About Me
-
-<table align="center" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="55%" style="border: none;">
-
-- 🎓 Undergraduate Student at **SLIIT**
-- 🔭 Currently building a **Train Reservation System**
-- 🌱 Exploring **Cloud Technologies** & **System Design**
-- 🎯 Future Goal: **Data Scientist** 
-- 🎸 In my free time, I enjoy **Music**, **Gaming**, and **Chilling**
+### ✦ ABOUT ME
+I am an undergraduate at **SLIIT** specializing in Full-Stack Development and Software Engineering. I thrive in architecting scalable systems and turning complex problems into elegant solutions. 
+- 🔭 Currently engineering a **Train Reservation System**
+- 🌱 Deep-diving into **Cloud Technologies** & **Machine Learning**
 - 📍 Based in **Matara, Sri Lanka**
 
-</td>
-<td width="45%" align="center" style="border: none;">
-
-```python
-class Savin(Developer):
-    def __init__(self):
-        self.name = "Savin Udana Abeysekara"
-        self.role = "Full Stack Engineer"
-        self.education = "SLIIT"
-        self.coffee_addict = True
-
-    def get_ambitions(self):
-        return [
-            "Master System Design",
-            "Become a Data Scientist",
-            "Build impactful projects"
-        ]
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,kotlin,php&perline=10" alt="Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express&perline=10" alt="Frameworks" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&perline=10" alt="Tools" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics
+### ✦ EXPERTISE
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaweenAbey&theme=tokyo-night&hide_border=true" width="48%" alt="GitHub Streak" />
+  <br>
+  <code>Core Languages</code><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,kotlin&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,js,kotlin&theme=light">
+    <img alt="Languages" src="https://skillicons.dev/icons?i=python,java,js,kotlin&theme=light" height="40">
+  </picture>
+  <br><br>
+  
+  <code>Frameworks & Libraries</code><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light">
+    <img alt="Frameworks" src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light" height="40">
+  </picture>
+  <br><br>
+
+  <code>Databases & Tools</code><br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,docker,git&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,docker,git&theme=light">
+    <img alt="Tools" src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git&theme=light" height="40">
+  </picture>
+</div>
+
+<br>
+
+---
+
+### ✦ SYSTEM ANALYTICS
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000" width="48%">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000" width="48%">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=transparent&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=transparent&hide_border=true&color=000000&line=000000&point=000000">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=transparent&hide_border=true&color=000000&line=000000&point=000000" width="100%">
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaweenAbey&theme=tokyo-night&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=tokyo-night&hide_border=true&bg_color=1A1B27" width="48%" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaweenAbey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=SaweenAbey&label=PROFILE+VIEWS&color=ffffff&labelColor=000000&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=SaweenAbey&label=PROFILE+VIEWS&color=000000&style=for-the-badge">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=SaweenAbey&label=PROFILE+VIEWS&color=000000&style=for-the-badge">
+  </picture>
 </div>
