@@ -1,120 +1,132 @@
-<h1 align="center">Hi, I'm Savin Udana 👋</h1> 
+<div align="center">
 
-## Who am I?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22C55E&height=220&section=header&text=Savin%20Udana%20Abeysekara&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Full-stack%20developer%20%7C%20UI%2FUX%20designer%20%7C%20lifelong%20learner&descAlignY=58&descSize=16" alt="Savin Udana Abeysekara" width="100%" />
 
- ```python
-  class WhoAmI:
-    user = 'Savin Udana Abeysekara'
-	current_edu = "SLIIT"
-    currently_learning = "Java , Python"
-    fun_fact = "I love coding"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming'
-				
-			]
-	
-	def getCity():
-		return Matara_Sri Lanka()
-	
-	def Ambitions():
-		Become_DataScientist()
-		FinishMyProjects()
-	
- ```
+# Hi, I'm Savin Udana 👋
 
+### I build thoughtful digital experiences with modern technologies.
 
+<a href="https://www.savinudana.me/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/savin-udana/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Mobile+App+Developer+📱;Always+Learning+New+Tech+⚡" />
-</p>
+<br />
+<br />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;Building+%7C+Learning+%7C+Improving" alt="Typing introduction" />
+
+</div>
 
 ---
 
-## ✨ About Me
+## 👨‍💻 About me
 
-- 🎓 Undergraduate Student at **SLIIT**
-- 💻 Interested in **Full-Stack Development & System Design**
-- 🚆 Currently working on a **Train Reservation System**
-- ☁️ Exploring **Backend + Cloud Technologies**
-- 🤝 Always open to collaborations & new opportunities
+I'm an undergraduate student at **SLIIT** who enjoys turning ideas into useful, polished software. I care about clean interfaces, reliable systems, and continuously learning better ways to build.
 
----
-
-## 🛠 Tech Stack
-
-### Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Kotlin-111?style=for-the-badge&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php"/>
-</p>
-
-### Frameworks & Tools  
-<p>
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express"/>
-</p>
-
-### Databases  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb"/>
-</p>
+- 🎓 Studying at **SLIIT**
+- 🚆 Building a **Train Reservation System**
+- 🌱 Currently learning **Java** and **Python**
+- ☁️ Exploring **backend engineering** and **cloud technologies**
+- 🎯 Working towards becoming a **data scientist**
+- 🎮 Outside of code: music, gaming, and relaxing
 
 ---
 
-## 📊 GitHub Overview
+## 🧰 Technology I work with
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaweenAbey&theme=github_dark" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaweenAbey&theme=github_dark&utcOffset=5.5" alt="Productive coding time" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
+### Languages
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaweenAbey&theme=github_dark" alt="GitHub contribution activity" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,kotlin,php&theme=dark" alt="Python, Java, JavaScript, Kotlin, PHP" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaweenAbey&theme=github_dark" alt="Top languages by repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaweenAbey&theme=github_dark" alt="Top languages by commit" />
-</p>
+### Frontend, backend & tools
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,html,css,git,github&theme=dark" alt="React, Tailwind CSS, Node.js, Express, HTML, CSS, Git, GitHub" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 What I'm working on
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/savin-udana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://github.com/SaweenAbey" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.savinudana.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=00C853"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20Views&color=blueviolet&style=flat-square"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚆 Train Reservation System</h3>
+      <p>A practical reservation platform focused on a smooth user experience and dependable backend workflows.</p>
+      <strong>Focus:</strong> Full-stack development · System design
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Continuous learning</h3>
+      <p>Expanding my skills across backend systems, cloud technologies, data science, and modern product development.</p>
+      <strong>Focus:</strong> Java · Python · Cloud · Data
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">
-⚡ Thanks for visiting — Let's build something amazing together!
-</h3>
+## 📈 GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaweenAbey&theme=github_dark" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaweenAbey&theme=github_dark&utcOffset=5.5" alt="Productive coding time" />
+
+<br />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaweenAbey&theme=github_dark" alt="GitHub contribution activity" width="100%" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaweenAbey&theme=github_dark" alt="Top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaweenAbey&theme=github_dark" alt="Top languages by commit" />
+
+</div>
+
+---
+
+## 🤝 Let's connect
+
+Whether you want to collaborate, share an idea, or talk about technology, feel free to reach out.
+
+<div align="center">
+
+<a href="https://github.com/SaweenAbey">
+  <img src="https://img.shields.io/badge/GitHub-SaweenAbey-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
+<a href="https://www.linkedin.com/in/savin-udana/">
+  <img src="https://img.shields.io/badge/LinkedIn-Savin%20Udana-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+</a>
+<a href="https://www.savinudana.me/">
+  <img src="https://img.shields.io/badge/Website-savinudana.me-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal website" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=SaweenAbey&label=Profile%20views&color=0EA5E9&style=flat-square" alt="Profile views" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+### ⚡ Build with purpose. Learn every day. Ship better.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:0EA5E9,100:0F172A&height=100&section=footer" alt="" width="100%" />
+
+</div>
