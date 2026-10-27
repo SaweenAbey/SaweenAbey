@@ -18,6 +18,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;Building+%7C+Learning+%7C+Improving" alt="Typing introduction" />
 
+<br />
+<br />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer coding animation" />
+
 </div>
 
 ---
