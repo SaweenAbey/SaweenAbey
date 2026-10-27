@@ -76,22 +76,21 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaweenAbey&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" height="195px" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=radical" alt="GitHub Streak" height="195px" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaweenAbey&theme=radical&layout=compact&langs_count=8" alt="Top Languages" height="195px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaweenAbey&theme=github_dark" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaweenAbey&theme=github_dark&utcOffset=5.5" alt="Productive coding time" />
 </p>
 
-
-
-
-
-
----
-
-## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SaweenAbey&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaweenAbey&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaweenAbey&theme=github_dark" alt="GitHub contribution activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaweenAbey&theme=github_dark" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaweenAbey&theme=github_dark" alt="Top languages by commit" />
 </p>
 
 ---
